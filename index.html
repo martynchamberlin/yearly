@@ -10,6 +10,9 @@
 <container>
   <section class="today">
     <h1>Yearly <span>for iOS</span></h1>
+
+    <div class="callout"><strong>January 6, 2020:</strong> Alas, as many people have pointed out, there is a bug with the dates if you have a start date other than January 1. That is due to the fact that 2020 is a leap year. A fix for this bug exists but the App Store review team keeps rejecting the update on the grounds that Yearly does not offer enough functionality according to Apple's ever-changing guidelines. I'm as frustrated as you are about this. Thanks for your patience while I build enough bells and whistles for Yearly to once again be complaint with Apple's guidelines.</div>
+
     <div class="texts">
       For support questions or general feedback, please contact me at <a href="mailto:martynchamberlin@icloud.com">martynchamberlin@icloud.com</a>. I’d love to hear from you!
     </div>
@@ -55,6 +58,13 @@
     background: linear-gradient(to bottom, #f29153 0%,#ed536d 100%);
     -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
+  }
+
+  .callout {
+    background: #ffebef;
+    color: red;
+    margin: 0 0 30px;
+    padding: 15px;
   }
 
   h1 span {
