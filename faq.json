@@ -2,19 +2,24 @@
   "lastUpdated": "2025-11-07T00:00:00Z",
   "faqs": [
     {
-      "id": "faq-001",
-      "question": "How do I change my reading plan?",
-      "answer": "Tap on the plan name at the top of the Read tab to select a different reading schedule. You can choose from M’Cheyne, Old & New Testament Daily, and other plans."
-    },
-    {
       "id": "faq-002",
       "question": "How do I mark a passage as read?",
       "answer": "Tap the book icon next to each passage to mark it as read. You can also long-press on a day card to mark all passages for that day as complete."
     },
     {
+      "id": "faq-youversion",
+      "question": "How can I listen to the readings?",
+      "answer": "Go to Settings, scroll down to the **Reading Preferences** section and enable the **Prefer YouVersion** option (make sure you have [YouVersion](https://apps.apple.com/us/app/bible/id282935706) installed on your device.) This will open the passages in YouVersion instead of the app, allowing you to listen to the readings."
+    },
+    {
       "id": "faq-003",
       "question": "Can I sync my progress across devices?",
       "answer": "Yes! With a premium subscription, your reading progress automatically syncs across all your devices using iCloud."
+    },
+    {
+      "id": "faq-001",
+      "question": "How do I change my reading plan?",
+      "answer": "Tap on the plan name at the top of the Read tab to select a different reading schedule. You can choose from M’Cheyne, Old & New Testament Daily, and other plans."
     },
     {
       "id": "faq-004",
@@ -33,9 +38,8 @@
     },
     {
       "id": "faq-007",
-      "question": "Someone I know would like to use this schedule, but they don’t own an iPhone or iPad. How can they use this?",
-      "answer": "They can obtain a physical copy of this schedule [here](https://www.crossway.org/tracts/through-the-bible-in-a-year-2656/) or a digital free CSV version [here](https://yearly-bible-schedule.csv)."
+      "question": "Someone I know would like to use one of these schedules, but they don’t own an iPhone or iPad. How can they use this?",
+      "answer": "For the Old & New schedule, they can obtain a physical copy of this schedule [here](https://www.crossway.org/tracts/through-the-bible-in-a-year-2656/) or a digital free CSV version [here](https://yearly-bible-schedule.csv). The M’Cheyne schedule is available as a free PDF [here](https://www.mcheyne.info/calendar.pdf) and the Genre schedule is available as a free PDF [here](https://faithconnector.s3.amazonaws.com/10660/files/bible_reading_plans/genre_bible-plan.pdf)."
     }
   ]
 }
-
