@@ -1,0 +1,41 @@
+{
+  "lastUpdated": "2025-11-07T00:00:00Z",
+  "faqs": [
+    {
+      "id": "faq-001",
+      "question": "How do I change my reading plan?",
+      "answer": "Tap on the plan name at the top of the Read tab to select a different reading schedule. You can choose from M’Cheyne, Old & New Testament Daily, and other plans."
+    },
+    {
+      "id": "faq-002",
+      "question": "How do I mark a passage as read?",
+      "answer": "Tap the book icon next to each passage to mark it as read. You can also long-press on a day card to mark all passages for that day as complete."
+    },
+    {
+      "id": "faq-003",
+      "question": "Can I sync my progress across devices?",
+      "answer": "Yes! With a premium subscription, your reading progress automatically syncs across all your devices using iCloud."
+    },
+    {
+      "id": "faq-004",
+      "question": "What if I fall behind in my reading?",
+      "answer": "Don’t worry! If you fall behind, the app will show you how many days you’re behind and offer to adjust your start date to get you back on track."
+    },
+    {
+      "id": "faq-005",
+      "question": "How do I change my start date?",
+      "answer": "Go to Settings and tap on ‘Start Date’ to select when you want your reading year to begin. Your schedule will automatically adjust."
+    },
+    {
+      "id": "faq-006",
+      "question": "Can I take notes on passages?",
+      "answer": "Yes! With a premium subscription, you can tap the notes icon when reading a passage to add your thoughts and reflections. Your notes are automatically synced across all your devices with iCloud."
+    },
+    {
+      "id": "faq-007",
+      "question": "Someone I know would like to use this schedule, but they don’t own an iPhone or iPad. How can they use this?",
+      "answer": "They can obtain a physical copy of this schedule [here](https://www.crossway.org/tracts/through-the-bible-in-a-year-2656/) or a digital free CSV version [here](https://yearly-bible-schedule.csv)."
+    }
+  ]
+}
+
