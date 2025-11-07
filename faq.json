@@ -39,7 +39,8 @@
     {
       "id": "faq-007",
       "question": "Someone I know would like to use one of these schedules, but they don’t own an iPhone or iPad. How can they use this?",
-      "answer": "For the Old & New schedule, they can obtain a physical copy of this schedule [here](https://www.crossway.org/tracts/through-the-bible-in-a-year-2656/) or a digital free CSV version [here](https://yearly-bible-schedule.csv). The M’Cheyne schedule is available as a free PDF [here](https://www.mcheyne.info/calendar.pdf) and the Genre schedule is available as a free PDF [here](https://faithconnector.s3.amazonaws.com/10660/files/bible_reading_plans/genre_bible-plan.pdf)."
+      "answer": "For the Old & New schedule, they can obtain a physical copy of this schedule [here](https://www.crossway.org/tracts/through-the-bible-in-a-year-2656/) or a digital free CSV version [here](https://martynchamberlin.github.io/yearly/yearly-bible-schedule.csv). The M’Cheyne schedule is available as a free PDF [here](https://www.mcheyne.info/calendar.pdf) and the Genre schedule is available as a free PDF [here](https://faithconnector.s3.amazonaws.com/10660/files/bible_reading_plans/genre_bible-plan.pdf)."
     }
   ]
 }
+
