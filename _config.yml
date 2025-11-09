@@ -1,0 +1,13 @@
+# Jekyll configuration
+title: Yearly for iOS
+description: Support site for Yearly iOS app
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# Exclude files from processing
+exclude:
+  - README.md
+  - .gitignore
+

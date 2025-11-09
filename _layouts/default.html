@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta name="apple-itunes-app" content="app-id=1329417324">
+  <title>{{ page.title }} - Yearly for iOS</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1" />
+  <meta charset="utf-8" />
+  <link rel="stylesheet" href="{{ '/styles.css' | relative_url }}">
+</head>
+
+<body>
+  <container>
+    <section>
+      <h1><a href="{{ '/' | relative_url }}" class="header-link">Yearly <span>for iOS</span></a></h1>
+
+      <nav class="main-nav">
+        <a href="{{ '/faq' | relative_url }}">FAQ</a>
+        <a href="{{ '/contact' | relative_url }}">Support</a>
+      </nav>
+
+      <div class="content">
+        {{ content }}
+      </div>
+
+      <footer>
+        <div class="footer-links">
+          <a href="{{ '/privacy-policy' | relative_url }}">Privacy Policy</a>
+          <span class="separator">•</span>
+          <a href="{{ '/terms-of-service' | relative_url }}">Terms of Service</a>
+        </div>
+      </footer>
+    </section>
+  </container>
+
+  {% if page.load_faq %}
+  <script src="{{ '/faq-loader.js' | relative_url }}"></script>
+  {% endif %}
+</body>
+
+</html>
