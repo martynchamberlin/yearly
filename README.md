@@ -48,23 +48,6 @@ bundle exec jekyll serve
 
 4. Open your browser to `http://localhost:4000`
 
-## Project Structure
-
-```
-yearly-support/
-├── _layouts/
-│   └── default.html          # Main layout template
-├── contact.md                # Contact support page
-├── faq.md                    # FAQ page
-├── index.md                  # Home/landing page
-├── privacy-policy.md         # Privacy policy
-├── terms-of-service.md       # Terms of service
-├── faq.json                  # FAQ data (easy to update)
-├── faq-loader.js             # JavaScript for dynamic FAQ loading
-├── styles.css                # Global styles
-├── _config.yml               # Jekyll configuration
-└── Gemfile                   # Ruby dependencies
-```
 
 ## Updating Content
 
@@ -81,15 +64,6 @@ Edit the `faq.json` file. Each FAQ item has the following structure:
 ```
 
 The FAQ will automatically update on the site.
-
-### Editing Pages
-
-Pages are written in Markdown for easy editing:
-- **Home page**: `index.md`
-- **FAQ page**: `faq.md`
-- **Contact**: `contact.md`
-- **Privacy Policy**: `privacy-policy.md`
-- **Terms of Service**: `terms-of-service.md`
 
 ### Styling
 
