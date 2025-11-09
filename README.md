@@ -8,18 +8,18 @@ This is the support and landing page for Yearly, an iOS app that helps users rea
 
 ## Tech Stack
 
-- **Jekyll** - Static site generator
+- **Jekyll** - Static site generator with data files
 - **GitHub Pages** - Hosting
 - **Pure CSS** - No frameworks, custom styling with CSS variables
-- **Vanilla JavaScript** - Dynamic FAQ loading
 
 ## Features
 
 - 📱 Responsive design with light/dark mode support
-- ❓ Dynamic FAQ system powered by JSON
+- ❓ FAQ system powered by Jekyll data files
 - 📄 Privacy Policy and Terms of Service pages
 - 💬 Contact support information
 - 🎨 Clean, centered layout with gradient accents
+- ⚡ Server-side rendering for fast page loads and better SEO
 
 ## Local Development
 
@@ -53,7 +53,7 @@ bundle exec jekyll serve
 
 ### Adding/Editing FAQ Items
 
-Edit the `faq.json` file. Each FAQ item has the following structure:
+Edit the `_data/faq.json` file. Each FAQ item has the following structure:
 
 ```json
 {
@@ -63,7 +63,7 @@ Edit the `faq.json` file. Each FAQ item has the following structure:
 }
 ```
 
-The FAQ will automatically update on the site.
+Jekyll will automatically rebuild the FAQ page when you commit changes. The FAQ is rendered server-side for better performance and SEO.
 
 ### Styling
 

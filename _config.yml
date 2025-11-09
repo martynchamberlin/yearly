@@ -6,6 +6,10 @@ description: Support site for Yearly iOS app
 markdown: kramdown
 permalink: pretty
 
+# Keep faq.json in output (don't process it)
+keep_files:
+  - faq.json
+
 # Exclude files from processing
 exclude:
   - README.md
