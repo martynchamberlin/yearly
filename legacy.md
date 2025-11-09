@@ -1,0 +1,38 @@
+---
+layout: default
+title: Legacy Yearly
+permalink: /legacy/
+show_privacy_link: false
+---
+
+## Legacy Yearly
+
+_This page contains support information for the original version of Yearly (versions 1.0.0 - 3.6.0). If you're using the new version of Yearly (25.11.1 or greater), please visit the main [FAQ page](/faq)._
+
+### Frequently Asked Questions
+
+<div class="question-wrap">
+  <div class="question">Q. Which version of the Bible is the default?</div>
+  <div class="answer">A. Yearly's default translation is the American Standard Version of 1901. This translation was chosen for pragmatic reasons: it was in the public domain (no licensing fees required) and it was easy to integrate.</div>
+</div>
+
+<div class="question-wrap">
+  <div class="question">Q. How can I use a different Bible translation other than the default?</div>
+  <div class="answer">A. Alas, there's not currently a way to do this. To get to your preferred Bible translation, please manually go to a Bible app like <a href="https://apps.apple.com/us/app/neubible/id961857426" target="_blank">NeuBible</a> or a physical Bible.</div>
+</div>
+
+<div class="question-wrap">
+  <div class="question">Q. I'm ahead or behind schedule, and the app keeps sending me to the current day.</div>
+  <div class="answer">A. We recommend adjusting your Start Date setting, which you can access by swiping from the left edge of the screen. If you are staying consistently ahead, try moving back your start date to earlier in the year. If you're behind, move forward your start date to later in the year. If you catch back up, you can always readjust your start date! Yearly is as flexible as you need it to be.</div>
+</div>
+
+<div class="question-wrap">
+  <div class="question">Q. Someone I know would like to use this schedule, but they don't own an iPhone or iPad. How can they use this?</div>
+  <div class="answer">A. They can obtain a physical copy of this schedule <a href="https://www.crossway.org/tracts/through-the-bible-in-a-year-2656/">here</a> or a digital free CSV version <a href="yearly-bible-schedule.csv">here</a>.</div>
+</div>
+<br/><br/>
+<div id="privacy-policy">
+      <h2>Privacy Policy</h2>
+      <p>Your data is safe and private. All of Yearly’s data (e.g. your settings, progress, and notes) is kept on-device. Nothing in Yearly is ever sync’d or sent to a server. If you want a backup of your customizations, we recommend including Yearly in your <a href="https://support.apple.com/en-us/HT207428" target="_blank">iCloud Backup</a>.</p>
+    </div>
+
