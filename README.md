@@ -1,6 +1,6 @@
 # Yearly Support Site
 
-Official support website for [Yearly](https://apps.apple.com/us/app/read-the-bible-in-one-year/id1329417324), a Bible reading app for iOS.
+This is the support website for [Yearly](https://apps.apple.com/us/app/read-the-bible-in-one-year/id1329417324), a Bible reading app for iOS.
 
 ## About
 
