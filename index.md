@@ -8,7 +8,7 @@ is_home: true
 <script>
   // Redirect old privacy-policy anchor to legacy page
   if (window.location.hash === '#privacy-policy') {
-    window.location.href = '/legacy/#privacy-policy';
+    window.location.href = '{{ site.url }}{{ site.baseurl }}/privacy-policy';
   }
 </script>
 
