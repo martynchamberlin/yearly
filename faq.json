@@ -2,6 +2,11 @@
   "lastUpdated": "2025-11-07T00:00:00Z",
   "faqs": [
     {
+      "id": "faq-1763132087267",
+      "question": "The app update is trying to start me over! How can I get back to my reading for today?",
+      "answer": "This is a known issue affecting some users and we are sorry! You can manually mark days as read, but if your start date is a long while ago, that will take a few minutes. We will be issuing a remedy within a few days that lets you achieve this with the tap of a button. Until then, you can reference a digital free CSV version of the Old & New schedule [here](https://martynchamberlin.github.io/yearly/yearly-bible-schedule.csv). Thank you for your patience as we work through the bumpy road of migration. 🙏"
+    },
+    {
       "id": "faq-002",
       "question": "How do I mark a passage as read?",
       "answer": "Tap the book icon next to each passage to mark it as read. You can also long-press on a day card to mark all passages for that day as complete."
